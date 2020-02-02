@@ -1,2 +1,2 @@
 # react-mui-dialogs
-React JS simple modal dialogs vs alert()
+React JS simple modal dialogs (Materuial UI library) vs alert()
